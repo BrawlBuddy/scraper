@@ -1,0 +1,2282 @@
+{
+    "items": [
+        {
+            "battleTime": "20231018T165309.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 150,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1314
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1334
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1320
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1314
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#2VPL29LG0",
+                            "name": "\u1d1b\u0280\u028f\u029c\u1d00\u0280\u1d05 \ud83d\udf32",
+                            "brawler": {
+                                "id": 16000003,
+                                "name": "BROCK",
+                                "power": 11,
+                                "trophies": 841
+                            }
+                        },
+                        {
+                            "tag": "#80QPCJ8LL",
+                            "name": "Ant\u0e4f\u00f1\u0e4f[TTF]",
+                            "brawler": {
+                                "id": 16000013,
+                                "name": "POCO",
+                                "power": 11,
+                                "trophies": 970
+                            }
+                        },
+                        {
+                            "tag": "#8GUJ8PU29",
+                            "name": "\u1d35 \u1d2c\u1d39 R\u1d00\u1d1c\u029f \ud83e\udd0d\ud83d\udc3c",
+                            "brawler": {
+                                "id": 16000054,
+                                "name": "FANG",
+                                "power": 11,
+                                "trophies": 918
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T164720.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 134,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#VLQPVPY",
+                    "name": "Hyra",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "BELLE",
+                        "power": 11,
+                        "trophies": 1317
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#GGQYG9RJ",
+                            "name": "IDarkPablo",
+                            "brawler": {
+                                "id": 16000057,
+                                "name": "JANET",
+                                "power": 11,
+                                "trophies": 920
+                            }
+                        },
+                        {
+                            "tag": "#2QVJYJLG0",
+                            "name": "Abeeeeeel\u2766",
+                            "brawler": {
+                                "id": 16000053,
+                                "name": "LOLA",
+                                "power": 11,
+                                "trophies": 1005
+                            }
+                        },
+                        {
+                            "tag": "#G99CYGL",
+                            "name": "\ud83d\udc08\u200d\u2b1b",
+                            "brawler": {
+                                "id": 16000064,
+                                "name": "GRAY",
+                                "power": 11,
+                                "trophies": 1081
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1331
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1317
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1311
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T164249.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 57,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#VLQPVPY",
+                    "name": "Hyra",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "BELLE",
+                        "power": 11,
+                        "trophies": 1314
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#88GJPL89L",
+                            "name": "Prestigie\u2730",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 10,
+                                "trophies": 866
+                            }
+                        },
+                        {
+                            "tag": "#JL0VYP0C",
+                            "name": "\u2744\ufe0fAlexi\u2603\ufe0f",
+                            "brawler": {
+                                "id": 16000030,
+                                "name": "EMZ",
+                                "power": 11,
+                                "trophies": 1036
+                            }
+                        },
+                        {
+                            "tag": "#R2R2JV9C",
+                            "name": "S4W|Aste\u2764\ufe0f\u200d\ud83d\udd25",
+                            "brawler": {
+                                "id": 16000065,
+                                "name": "MANDY",
+                                "power": 11,
+                                "trophies": 1042
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1328
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1314
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1308
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T163717.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 74,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1305
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1325
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1311
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1305
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#Q2P99R0Y2",
+                            "name": "Diper\ud83d\udc51",
+                            "brawler": {
+                                "id": 16000054,
+                                "name": "FANG",
+                                "power": 11,
+                                "trophies": 951
+                            }
+                        },
+                        {
+                            "tag": "#P909QG88V",
+                            "name": "INV|isp98\u2764\ud83d\udd25",
+                            "brawler": {
+                                "id": 16000030,
+                                "name": "EMZ",
+                                "power": 11,
+                                "trophies": 847
+                            }
+                        },
+                        {
+                            "tag": "#20Q80PRVL",
+                            "name": "BanAdmin",
+                            "brawler": {
+                                "id": 16000034,
+                                "name": "JACKY",
+                                "power": 11,
+                                "trophies": 991
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T163339.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 31,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#22CL00PG0",
+                    "name": "ZETA | Nowy297",
+                    "brawler": {
+                        "id": 16000000,
+                        "name": "SHELLY",
+                        "power": 11,
+                        "trophies": 1322
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1302
+                            }
+                        },
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1322
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1308
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#PGJ9RR8YU",
+                            "name": "\u26a1ENES\u26a1",
+                            "brawler": {
+                                "id": 16000034,
+                                "name": "JACKY",
+                                "power": 10,
+                                "trophies": 851
+                            }
+                        },
+                        {
+                            "tag": "#2JURGR2QL",
+                            "name": "\u26a1Senpai\u26a1",
+                            "brawler": {
+                                "id": 16000002,
+                                "name": "BULL",
+                                "power": 11,
+                                "trophies": 879
+                            }
+                        },
+                        {
+                            "tag": "#GRLJCV0Y",
+                            "name": "AN d_r_o_i_d",
+                            "brawler": {
+                                "id": 16000023,
+                                "name": "LEON",
+                                "power": 11,
+                                "trophies": 993
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T162919.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 130,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#22CL00PG0",
+                    "name": "ZETA | Nowy297",
+                    "brawler": {
+                        "id": 16000000,
+                        "name": "SHELLY",
+                        "power": 11,
+                        "trophies": 1319
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1305
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1299
+                            }
+                        },
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1319
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#PP0JLCUG",
+                            "name": "\u041d\u041d",
+                            "brawler": {
+                                "id": 16000070,
+                                "name": "CORDELIUS",
+                                "power": 11,
+                                "trophies": 964
+                            }
+                        },
+                        {
+                            "tag": "#2RYCPUJ2U",
+                            "name": "the sus player",
+                            "brawler": {
+                                "id": 16000002,
+                                "name": "BULL",
+                                "power": 11,
+                                "trophies": 970
+                            }
+                        },
+                        {
+                            "tag": "#2YGVPPV2Q",
+                            "name": "\ud83e\udd40\u00d8\u0141S(S\u0246V\u023a)\ud83e\udd40",
+                            "brawler": {
+                                "id": 16000054,
+                                "name": "FANG",
+                                "power": 11,
+                                "trophies": 963
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T162428.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 63,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#22CL00PG0",
+                    "name": "ZETA | Nowy297",
+                    "brawler": {
+                        "id": 16000000,
+                        "name": "SHELLY",
+                        "power": 11,
+                        "trophies": 1316
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1316
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1302
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1296
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#8P0CPY0RU",
+                            "name": "Sc\u0365ar\u0363e\u036bd\u2614",
+                            "brawler": {
+                                "id": 16000054,
+                                "name": "FANG",
+                                "power": 11,
+                                "trophies": 846
+                            }
+                        },
+                        {
+                            "tag": "#8L02Y80Q9",
+                            "name": "[BTS]gab",
+                            "brawler": {
+                                "id": 16000030,
+                                "name": "EMZ",
+                                "power": 10,
+                                "trophies": 979
+                            }
+                        },
+                        {
+                            "tag": "#2UGC8Q2GV",
+                            "name": "\u611b|\u21af\ud835\udcdf\ud835\udcea\ud835\udcfd\ud835\udcf8\u2766\ufe0e",
+                            "brawler": {
+                                "id": 16000068,
+                                "name": "MAISIE",
+                                "power": 11,
+                                "trophies": 961
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T162023.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 48,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1293
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1313
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1399
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1293
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#LQG902JRY",
+                            "name": "Peta\ud83d\udda4Bull",
+                            "brawler": {
+                                "id": 16000002,
+                                "name": "BULL",
+                                "power": 11,
+                                "trophies": 954
+                            }
+                        },
+                        {
+                            "tag": "#2J20CV9RP",
+                            "name": "Sanpei\u4e42",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 984
+                            }
+                        },
+                        {
+                            "tag": "#2UP2J88JP",
+                            "name": "Skill Dragon",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 946
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T161519.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 72,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#8RLGJR9UC",
+                    "name": "Danger\ud83d\udc98",
+                    "brawler": {
+                        "id": 16000045,
+                        "name": "STU",
+                        "power": 11,
+                        "trophies": 1110
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#8RLGJR9UC",
+                            "name": "Danger\ud83d\udc98",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 11,
+                                "trophies": 1110
+                            }
+                        },
+                        {
+                            "tag": "#2LYLQRQPV",
+                            "name": "\ud835\ude88\ud835\ude98\ud835\ude9e\ud835\ude97\ud835\ude9c\ud835\ude9c\ud83d\udc9a",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 1015
+                            }
+                        },
+                        {
+                            "tag": "#9YUGPC0Q8",
+                            "name": "Mertcan\ud83d\ude21",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 1085
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1310
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1396
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1290
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T161116.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 32,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#22CL00PG0",
+                    "name": "ZETA | Nowy297",
+                    "brawler": {
+                        "id": 16000000,
+                        "name": "SHELLY",
+                        "power": 11,
+                        "trophies": 1307
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#2RL8LGV9Q",
+                            "name": "\ud83d\udc3ciBearQu\u2766\ufe0e",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1091
+                            }
+                        },
+                        {
+                            "tag": "#YRURQRPUR",
+                            "name": "Chipzita\ud83e\ude75",
+                            "brawler": {
+                                "id": 16000064,
+                                "name": "GRAY",
+                                "power": 11,
+                                "trophies": 1074
+                            }
+                        },
+                        {
+                            "tag": "#G99CYGL",
+                            "name": "\ud83d\udc08\u200d\u2b1b",
+                            "brawler": {
+                                "id": 16000057,
+                                "name": "JANET",
+                                "power": 11,
+                                "trophies": 1109
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1307
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1393
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1287
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T160803.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 33,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#22CL00PG0",
+                    "name": "ZETA | Nowy297",
+                    "brawler": {
+                        "id": 16000000,
+                        "name": "SHELLY",
+                        "power": 11,
+                        "trophies": 1304
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1304
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1284
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1390
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#20CGJJPQ0",
+                            "name": "\u2764\ufe0flovely\u2764\ufe0f",
+                            "brawler": {
+                                "id": 16000017,
+                                "name": "TARA",
+                                "power": 11,
+                                "trophies": 957
+                            }
+                        },
+                        {
+                            "tag": "#2022J9P0G",
+                            "name": "\u30c8\u30ed\u30e4\u30f3\ud83d\udc37",
+                            "brawler": {
+                                "id": 16000073,
+                                "name": "CHUCK",
+                                "power": 11,
+                                "trophies": 501
+                            }
+                        },
+                        {
+                            "tag": "#99YR8VR0P",
+                            "name": "BC*|Kerem\ud83c\udf3f",
+                            "brawler": {
+                                "id": 16000050,
+                                "name": "GRIFF",
+                                "power": 11,
+                                "trophies": 756
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T160320.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 45,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1281
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1301
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1387
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1281
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#88GJPL89L",
+                            "name": "Prestigie\u2730",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 10,
+                                "trophies": 855
+                            }
+                        },
+                        {
+                            "tag": "#JL0VYP0C",
+                            "name": "\u2744\ufe0fAlexi\u2603\ufe0f",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 10,
+                                "trophies": 1040
+                            }
+                        },
+                        {
+                            "tag": "#R2R2JV9C",
+                            "name": "S4W|Aste\u2764\ufe0f\u200d\ud83d\udd25",
+                            "brawler": {
+                                "id": 16000065,
+                                "name": "MANDY",
+                                "power": 11,
+                                "trophies": 1057
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T135816.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 150,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#9L9V2VRCV",
+                    "name": "\u6211\u706b\u53ec\ud83e\udd0dshz\u5929\u53c8",
+                    "brawler": {
+                        "id": 16000062,
+                        "name": "BUSTER",
+                        "power": 11,
+                        "trophies": 1128
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1298
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1384
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1278
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#GGY0G29PU",
+                            "name": "NF|Ymran\ud83c\udf88",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 1132
+                            }
+                        },
+                        {
+                            "tag": "#8RLGJR9UC",
+                            "name": "Danger\ud83d\udc98",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 11,
+                                "trophies": 1130
+                            }
+                        },
+                        {
+                            "tag": "#9L9V2VRCV",
+                            "name": "\u6211\u706b\u53ec\ud83e\udd0dshz\u5929\u53c8",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 1128
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T135305.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 128,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1275
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1381
+                            }
+                        },
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1295
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1275
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#28GVQ8J88",
+                            "name": "Scythe\u21af",
+                            "brawler": {
+                                "id": 16000054,
+                                "name": "FANG",
+                                "power": 11,
+                                "trophies": 874
+                            }
+                        },
+                        {
+                            "tag": "#QUQ9PVLV",
+                            "name": "Josia\ud83e\udd0d",
+                            "brawler": {
+                                "id": 16000058,
+                                "name": "BONNIE",
+                                "power": 11,
+                                "trophies": 1010
+                            }
+                        },
+                        {
+                            "tag": "#LG2RY8GP",
+                            "name": "Cyclxne",
+                            "brawler": {
+                                "id": 16000015,
+                                "name": "PIPER",
+                                "power": 11,
+                                "trophies": 1010
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T134749.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 33,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1272
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#V2Q080UU",
+                            "name": "Valembeau\ud83d\udc9c",
+                            "brawler": {
+                                "id": 16000042,
+                                "name": "BYRON",
+                                "power": 11,
+                                "trophies": 1167
+                            }
+                        },
+                        {
+                            "tag": "#GGQV0028",
+                            "name": "J20",
+                            "brawler": {
+                                "id": 16000002,
+                                "name": "BULL",
+                                "power": 11,
+                                "trophies": 867
+                            }
+                        },
+                        {
+                            "tag": "#Y99L9L8",
+                            "name": "\ud835\udc3b\ud835\udc4e\ud835\udc5d\ud835\udc5d\ud835\udc66\u2766",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 11,
+                                "trophies": 849
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1378
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1272
+                            }
+                        },
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1292
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T133740.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 74,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1269
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#9YPY9QQJ0",
+                            "name": "Maria",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 975
+                            }
+                        },
+                        {
+                            "tag": "#ULURUCQ9",
+                            "name": "Symantec",
+                            "brawler": {
+                                "id": 16000070,
+                                "name": "CORDELIUS",
+                                "power": 11,
+                                "trophies": 824
+                            }
+                        },
+                        {
+                            "tag": "#JGRVR22Q",
+                            "name": "HMB | Canaan",
+                            "brawler": {
+                                "id": 16000028,
+                                "name": "SANDY",
+                                "power": 11,
+                                "trophies": 956
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1289
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1375
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1269
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T132859.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 49,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#VLQPVPY",
+                    "name": "Hyra",
+                    "brawler": {
+                        "id": 16000047,
+                        "name": "SQUEAK",
+                        "power": 11,
+                        "trophies": 1372
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1286
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1372
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1266
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#28Q8QQGG",
+                            "name": "Guts\ud83c\udc04",
+                            "brawler": {
+                                "id": 16000005,
+                                "name": "SPIKE",
+                                "power": 11,
+                                "trophies": 911
+                            }
+                        },
+                        {
+                            "tag": "#8L02Y80Q9",
+                            "name": "[BTS]gab",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 11,
+                                "trophies": 967
+                            }
+                        },
+                        {
+                            "tag": "#2Q980J9RQ",
+                            "name": "\ud83c\udf39n\u00eah\u00f8r\u00e2y\u1d37\u1da4\u02e1\u02e1\u1d67\u2092",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 896
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T132430.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 150,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1263
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1283
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1263
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1369
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#GGY0G29PU",
+                            "name": "NF|Ymran\ud83c\udf88",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 1094
+                            }
+                        },
+                        {
+                            "tag": "#8RLGJR9UC",
+                            "name": "Danger\ud83d\udc98",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 11,
+                                "trophies": 1092
+                            }
+                        },
+                        {
+                            "tag": "#9L9V2VRCV",
+                            "name": "\u6211\u706b\u53ec\ud83e\udd0dshz\u5929\u53c8",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 1089
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T130108.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 70,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1260
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#2URV2YGUR",
+                            "name": "Smoke\ud83c\udf2a",
+                            "brawler": {
+                                "id": 16000011,
+                                "name": "MORTIS",
+                                "power": 11,
+                                "trophies": 1108
+                            }
+                        },
+                        {
+                            "tag": "#2Y2JVRP9R",
+                            "name": "NS|Ora-G",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 812
+                            }
+                        },
+                        {
+                            "tag": "#2VQU8QJG",
+                            "name": "HK",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 1003
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1280
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1366
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1260
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T125704.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 66,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1257
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#V8GGGCL9",
+                            "name": "\u60aaNagisa\ud83e\udd8b\u4e42",
+                            "brawler": {
+                                "id": 16000001,
+                                "name": "COLT",
+                                "power": 11,
+                                "trophies": 890
+                            }
+                        },
+                        {
+                            "tag": "#22P0V0URV",
+                            "name": "FOX|MAX\ud83e\udd8a",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 858
+                            }
+                        },
+                        {
+                            "tag": "#8RYU8Q82L",
+                            "name": "\u300e\u4e42Ninga3\ud83d\udc9b\u300f",
+                            "brawler": {
+                                "id": 16000011,
+                                "name": "MORTIS",
+                                "power": 11,
+                                "trophies": 911
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1277
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1363
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1257
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T124728.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 74,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#VLQPVPY",
+                    "name": "Hyra",
+                    "brawler": {
+                        "id": 16000047,
+                        "name": "SQUEAK",
+                        "power": 11,
+                        "trophies": 1360
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1274
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1254
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1360
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#GGY0G29PU",
+                            "name": "NF|Ymran\ud83c\udf88",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 1034
+                            }
+                        },
+                        {
+                            "tag": "#8RLGJR9UC",
+                            "name": "Danger\ud83d\udc98",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 11,
+                                "trophies": 1032
+                            }
+                        },
+                        {
+                            "tag": "#9L9V2VRCV",
+                            "name": "\u6211\u706b\u53ec\ud83e\udd0dshz\u5929\u53c8",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 1029
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T124341.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 77,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1251
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#2CRQ8YVGY",
+                            "name": "Phoenix \u82b1",
+                            "brawler": {
+                                "id": 16000013,
+                                "name": "POCO",
+                                "power": 11,
+                                "trophies": 944
+                            }
+                        },
+                        {
+                            "tag": "#QUQ9PVLV",
+                            "name": "Josia\ud83e\udd0d",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 981
+                            }
+                        },
+                        {
+                            "tag": "#GGU000R8",
+                            "name": "Alezzo\ud83d\udc14",
+                            "brawler": {
+                                "id": 16000004,
+                                "name": "RICO",
+                                "power": 11,
+                                "trophies": 815
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1271
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1357
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1251
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T123831.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 31,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#20L88L2J",
+                    "name": "FUT | Mr_LeNain",
+                    "brawler": {
+                        "id": 16000059,
+                        "name": "OTIS",
+                        "power": 11,
+                        "trophies": 1248
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1268
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1354
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1248
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#2RULPPLCG",
+                            "name": "\u300eArchi\u3006\u300f",
+                            "brawler": {
+                                "id": 16000045,
+                                "name": "STU",
+                                "power": 11,
+                                "trophies": 857
+                            }
+                        },
+                        {
+                            "tag": "#2P80Q0YPP",
+                            "name": "\ud83e\udd84CM|\u00a5\u0115\u00a7\u00a7\u011b\u26a1",
+                            "brawler": {
+                                "id": 16000054,
+                                "name": "FANG",
+                                "power": 11,
+                                "trophies": 880
+                            }
+                        },
+                        {
+                            "tag": "#2RV8VRVPV",
+                            "name": "\u6211\uff5c\ud835\udc9e\ud835\udcca\ud835\udcc7\ud835\udcc8\u212f\ud835\udcb9",
+                            "brawler": {
+                                "id": 16000070,
+                                "name": "CORDELIUS",
+                                "power": 11,
+                                "trophies": 881
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T123139.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 42,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#VLQPVPY",
+                    "name": "Hyra",
+                    "brawler": {
+                        "id": 16000047,
+                        "name": "SQUEAK",
+                        "power": 11,
+                        "trophies": 1351
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#222GQL2VQ",
+                            "name": "\ud835\udd4f\ud835\udd52\ud835\udd60\ud835\udd5d\ud835\udd5a\ud835\udd5e\ud83c\udf44",
+                            "brawler": {
+                                "id": 16000050,
+                                "name": "GRIFF",
+                                "power": 10,
+                                "trophies": 909
+                            }
+                        },
+                        {
+                            "tag": "#22RRP22U8",
+                            "name": "Nik",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 874
+                            }
+                        },
+                        {
+                            "tag": "#GR89988P",
+                            "name": "TTV|Moutinho_27",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 10,
+                                "trophies": 924
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1265
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1351
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1245
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20231018T122323.000Z",
+            "event": {
+                "id": 15000026,
+                "mode": "brawlBall",
+                "map": "Pinhole Punt"
+            },
+            "battle": {
+                "mode": "brawlBall",
+                "type": "ranked",
+                "result": "victory",
+                "duration": 62,
+                "trophyChange": 3,
+                "starPlayer": {
+                    "tag": "#22CL00PG0",
+                    "name": "ZETA | Nowy297",
+                    "brawler": {
+                        "id": 16000000,
+                        "name": "SHELLY",
+                        "power": 11,
+                        "trophies": 1262
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#8QYYL222L",
+                            "name": "\ud83d\udd4akrunchkob\ud83d\udd4a\ud83d\udc33",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 896
+                            }
+                        },
+                        {
+                            "tag": "#8QG9UJ2",
+                            "name": "FlappyWairon",
+                            "brawler": {
+                                "id": 16000068,
+                                "name": "MAISIE",
+                                "power": 11,
+                                "trophies": 946
+                            }
+                        },
+                        {
+                            "tag": "#2Q980J9RQ",
+                            "name": "\ud83c\udf39n\u00eah\u00f8r\u00e2y\u1d37\u1da4\u02e1\u02e1\u1d67\u2092",
+                            "brawler": {
+                                "id": 16000062,
+                                "name": "BUSTER",
+                                "power": 11,
+                                "trophies": 966
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#22CL00PG0",
+                            "name": "ZETA | Nowy297",
+                            "brawler": {
+                                "id": 16000000,
+                                "name": "SHELLY",
+                                "power": 11,
+                                "trophies": 1262
+                            }
+                        },
+                        {
+                            "tag": "#VLQPVPY",
+                            "name": "Hyra",
+                            "brawler": {
+                                "id": 16000047,
+                                "name": "SQUEAK",
+                                "power": 11,
+                                "trophies": 1348
+                            }
+                        },
+                        {
+                            "tag": "#20L88L2J",
+                            "name": "FUT | Mr_LeNain",
+                            "brawler": {
+                                "id": 16000059,
+                                "name": "OTIS",
+                                "power": 11,
+                                "trophies": 1242
+                            }
+                        }
+                    ]
+                ]
+            }
+        }
+    ],
+    "paging": {
+        "cursors": {}
+    }
+}
