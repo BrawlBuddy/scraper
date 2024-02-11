@@ -3,16 +3,16 @@
 # Pull changes from the remote repository
 git pull origin main
 
-# Run the first Python file
-python first_file.py
-
-# Wait until the first Python file finishes
+# update the regional battles
+python scraper.py
 wait
 
-# Run the second Python file
-python second_file.py
+#create combined.csv
+python merge.py
+wait
 
-# Wait until the second Python file finishes
+#calculate results
+python calc.py
 wait
 
 # Add changes to the staging area
